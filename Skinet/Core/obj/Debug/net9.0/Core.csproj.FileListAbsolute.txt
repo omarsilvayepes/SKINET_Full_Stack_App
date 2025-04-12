@@ -9,3 +9,4 @@ C:\Users\omary\OneDrive\Escritorio\LearningDEV\SkiNet\Skinet\Core\obj\Debug\net9
 C:\Users\omary\OneDrive\Escritorio\LearningDEV\SkiNet\Skinet\Core\obj\Debug\net9.0\refint\Core.dll
 C:\Users\omary\OneDrive\Escritorio\LearningDEV\SkiNet\Skinet\Core\obj\Debug\net9.0\Core.pdb
 C:\Users\omary\OneDrive\Escritorio\LearningDEV\SkiNet\Skinet\Core\obj\Debug\net9.0\ref\Core.dll
+C:\Users\omary\OneDrive\Escritorio\LearningDEV\SkiNet\Skinet\Core\obj\Debug\net9.0\Core.sourcelink.json

@@ -1,5 +1,4 @@
 ﻿using Core.Entities;
-using System.Threading.Tasks;
 
 namespace Core.Interfaces
 {
@@ -18,5 +17,7 @@ namespace Core.Interfaces
         Task<IReadOnlyList<T>> ListAsync(ISpecification<T> specification);
         Task<TResult?> GetEntityWithSpec<TResult>(ISpecification<T, TResult> specification);
         Task<IReadOnlyList<TResult>> ListAsync<TResult>(ISpecification<T, TResult> specification);
+
+        Task<int> CountAsync(ISpecification<T> specification);
     }
 }

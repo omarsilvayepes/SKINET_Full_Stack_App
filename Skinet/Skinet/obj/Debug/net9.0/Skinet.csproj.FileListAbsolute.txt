@@ -157,3 +157,4 @@ C:\Users\omary\OneDrive\Escritorio\LearningDEV\SkiNet\Skinet\Skinet\obj\Debug\ne
 C:\Users\omary\OneDrive\Escritorio\LearningDEV\SkiNet\Skinet\Skinet\obj\Debug\net9.0\Skinet.pdb
 C:\Users\omary\OneDrive\Escritorio\LearningDEV\SkiNet\Skinet\Skinet\obj\Debug\net9.0\Skinet.genruntimeconfig.cache
 C:\Users\omary\OneDrive\Escritorio\LearningDEV\SkiNet\Skinet\Skinet\obj\Debug\net9.0\ref\Skinet.dll
+C:\Users\omary\OneDrive\Escritorio\LearningDEV\SkiNet\Skinet\Skinet\obj\Debug\net9.0\Skinet.sourcelink.json

@@ -2,27 +2,26 @@
 using Core.Interfaces;
 using Core.Specifications;
 using Microsoft.AspNetCore.Mvc;
+using Skinet.RequestHelpers;
 
 namespace Skinet.Controllers
 {
-    [Route("api/[controller]")]
-    [ApiController]
 
     //Primary constructor approach:injected services directly into class
-    public class ProductsController(IGenericRepository<Product> repository) : ControllerBase
+    public class ProductsController(IGenericRepository<Product> repository) : BaseApiController
     {
 
-        [HttpGet]   
-        public async Task<ActionResult<IReadOnlyList<Product>>> GetProducts(
-            string? brand, 
-            string? type,
-            string? sort)
+        [HttpGet]
+        public async Task<ActionResult<IReadOnlyList<Product>>> GetProducts([FromQuery] ProductSpecParams productSpecParams)
         {
-            var specification=new ProductSpecification(brand, type,sort);
-            var products=await repository.ListAsync(specification);
+            var specification = new ProductSpecification(productSpecParams);
 
             // await /async help to free the thread(do other task if requiere) for doing other tasks meanwile the list product are get
-            return Ok(products);
+            return await CreatePagedResult(
+                repository,
+                specification,
+                productSpecParams.PageIndex,
+                productSpecParams.PageSize);
         }
 
         [HttpGet("{id:int}")]
