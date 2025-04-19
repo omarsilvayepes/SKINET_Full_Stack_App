@@ -1,5 +1,61 @@
 [
   {
+    "ContainingType": "Skinet.Controllers.BuggyController",
+    "Method": "GetBadRequest",
+    "RelativePath": "api/Buggy/badrequest",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Skinet.Controllers.BuggyController",
+    "Method": "InternalError",
+    "RelativePath": "api/Buggy/internalerror",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Skinet.Controllers.BuggyController",
+    "Method": "NotFound",
+    "RelativePath": "api/Buggy/not found",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Skinet.Controllers.BuggyController",
+    "Method": "GetUnauthorized",
+    "RelativePath": "api/Buggy/unauthorized",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Skinet.Controllers.BuggyController",
+    "Method": "GetValidationError",
+    "RelativePath": "api/Buggy/validationerror",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "product",
+        "Type": "Skinet.DTOs.CreateProductDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "Skinet.Controllers.ProductsController",
     "Method": "GetProducts",
     "RelativePath": "api/Products",
