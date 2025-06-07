@@ -2,7 +2,6 @@
 using Core.Interfaces;
 using Core.Specifications;
 using Microsoft.AspNetCore.Mvc;
-using Skinet.RequestHelpers;
 
 namespace Skinet.Controllers
 {
