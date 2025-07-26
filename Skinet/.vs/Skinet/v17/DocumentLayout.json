@@ -3,8 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\omary\\OneDrive\\Escritorio\\LearningDEV\\SkiNet\\Skinet\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{0BF44319-8EB2-4859-B6D1-F4D970AAB8A2}|docker-compose.dcproj|c:\\users\\omary\\onedrive\\escritorio\\learningdev\\skinet\\skinet\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{0BF44319-8EB2-4859-B6D1-F4D970AAB8A2}|docker-compose.dcproj|solutionrelative:docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74437F16-CC67-4AE4-AF38-4D75A7B4E239}|Skinet\\Skinet.csproj|c:\\users\\omary\\onedrive\\escritorio\\learningdev\\skinet\\skinet\\skinet\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74437F16-CC67-4AE4-AF38-4D75A7B4E239}|Skinet\\Skinet.csproj|solutionrelative:skinet\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74437F16-CC67-4AE4-AF38-4D75A7B4E239}|Skinet\\Skinet.csproj|c:\\users\\omary\\onedrive\\escritorio\\learningdev\\skinet\\skinet\\skinet\\skinet.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{74437F16-CC67-4AE4-AF38-4D75A7B4E239}|Skinet\\Skinet.csproj|solutionrelative:skinet\\skinet.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{74437F16-CC67-4AE4-AF38-4D75A7B4E239}|Skinet\\Skinet.csproj|c:\\users\\omary\\onedrive\\escritorio\\learningdev\\skinet\\skinet\\skinet\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{74437F16-CC67-4AE4-AF38-4D75A7B4E239}|Skinet\\Skinet.csproj|solutionrelative:skinet\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74437F16-CC67-4AE4-AF38-4D75A7B4E239}|Skinet\\Skinet.csproj|c:\\users\\omary\\onedrive\\escritorio\\learningdev\\skinet\\skinet\\skinet\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{74437F16-CC67-4AE4-AF38-4D75A7B4E239}|Skinet\\Skinet.csproj|solutionrelative:skinet\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{34F14756-6BF2-4500-940B-F26A9F479CC4}|Infrastructure\\Infrastructure.csproj|c:\\users\\omary\\onedrive\\escritorio\\learningdev\\skinet\\skinet\\infrastructure\\data\\specificationevaluator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -51,16 +67,8 @@
       "RelativeMoniker": "D:0:0:{4C6823AA-89C8-4EC3-8E4C-9C1793F3792E}|Core\\Core.csproj|solutionrelative:core\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{74437F16-CC67-4AE4-AF38-4D75A7B4E239}|Skinet\\Skinet.csproj|c:\\users\\omary\\onedrive\\escritorio\\learningdev\\skinet\\skinet\\skinet\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{74437F16-CC67-4AE4-AF38-4D75A7B4E239}|Skinet\\Skinet.csproj|solutionrelative:skinet\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{74437F16-CC67-4AE4-AF38-4D75A7B4E239}|Skinet\\Skinet.csproj|c:\\users\\omary\\onedrive\\escritorio\\learningdev\\skinet\\skinet\\skinet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{74437F16-CC67-4AE4-AF38-4D75A7B4E239}|Skinet\\Skinet.csproj|solutionrelative:skinet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{74437F16-CC67-4AE4-AF38-4D75A7B4E239}|Skinet\\Skinet.csproj|c:\\users\\omary\\onedrive\\escritorio\\learningdev\\skinet\\skinet\\skinet\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{74437F16-CC67-4AE4-AF38-4D75A7B4E239}|Skinet\\Skinet.csproj|solutionrelative:skinet\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{34F14756-6BF2-4500-940B-F26A9F479CC4}|Infrastructure\\Infrastructure.csproj|c:\\users\\omary\\onedrive\\escritorio\\learningdev\\skinet\\skinet\\infrastructure\\data\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -121,7 +129,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -129,44 +137,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ProductSpecification.cs",
-              "DocumentMoniker": "C:\\Users\\omary\\OneDrive\\Escritorio\\LearningDEV\\SkiNet\\Skinet\\Core\\Specifications\\ProductSpecification.cs",
-              "RelativeDocumentMoniker": "Core\\Specifications\\ProductSpecification.cs",
-              "ToolTip": "C:\\Users\\omary\\OneDrive\\Escritorio\\LearningDEV\\SkiNet\\Skinet\\Core\\Specifications\\ProductSpecification.cs",
-              "RelativeToolTip": "Core\\Specifications\\ProductSpecification.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAABwAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-22T21:25:26.754Z"
+              "DocumentIndex": 0,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "C:\\Users\\omary\\OneDrive\\Escritorio\\LearningDEV\\SkiNet\\Skinet\\docker-compose.yml",
+              "RelativeDocumentMoniker": "docker-compose.yml",
+              "ToolTip": "C:\\Users\\omary\\OneDrive\\Escritorio\\LearningDEV\\SkiNet\\Skinet\\docker-compose.yml",
+              "RelativeToolTip": "docker-compose.yml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2025-07-26T22:45:20.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Skinet",
+              "DocumentMoniker": "C:\\Users\\omary\\OneDrive\\Escritorio\\LearningDEV\\SkiNet\\Skinet\\Skinet\\Skinet.csproj",
+              "RelativeDocumentMoniker": "Skinet\\Skinet.csproj",
+              "ToolTip": "C:\\Users\\omary\\OneDrive\\Escritorio\\LearningDEV\\SkiNet\\Skinet\\Skinet\\Skinet.csproj",
+              "RelativeToolTip": "Skinet\\Skinet.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-26T22:23:22.503Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Pagination.cs",
-              "DocumentMoniker": "C:\\Users\\omary\\OneDrive\\Escritorio\\LearningDEV\\SkiNet\\Skinet\\Skinet\\RequestHelpers\\Pagination.cs",
-              "RelativeDocumentMoniker": "Skinet\\RequestHelpers\\Pagination.cs",
-              "ToolTip": "C:\\Users\\omary\\OneDrive\\Escritorio\\LearningDEV\\SkiNet\\Skinet\\Skinet\\RequestHelpers\\Pagination.cs",
-              "RelativeToolTip": "Skinet\\RequestHelpers\\Pagination.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T21:49:43.59Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "ProductsController.cs",
               "DocumentMoniker": "C:\\Users\\omary\\OneDrive\\Escritorio\\LearningDEV\\SkiNet\\Skinet\\Skinet\\Controllers\\ProductsController.cs",
               "RelativeDocumentMoniker": "Skinet\\Controllers\\ProductsController.cs",
               "ToolTip": "C:\\Users\\omary\\OneDrive\\Escritorio\\LearningDEV\\SkiNet\\Skinet\\Skinet\\Controllers\\ProductsController.cs",
               "RelativeToolTip": "Skinet\\Controllers\\ProductsController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAowA8AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-09T00:31:01.416Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "BaseApiController.cs",
               "DocumentMoniker": "C:\\Users\\omary\\OneDrive\\Escritorio\\LearningDEV\\SkiNet\\Skinet\\Skinet\\Controllers\\BaseApiController.cs",
               "RelativeDocumentMoniker": "Skinet\\Controllers\\BaseApiController.cs",
@@ -178,7 +188,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "SpecificationEvaluator.cs",
               "DocumentMoniker": "C:\\Users\\omary\\OneDrive\\Escritorio\\LearningDEV\\SkiNet\\Skinet\\Infrastructure\\Data\\SpecificationEvaluator.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Data\\SpecificationEvaluator.cs",
@@ -191,7 +201,57 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\omary\\OneDrive\\Escritorio\\LearningDEV\\SkiNet\\Skinet\\Skinet\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Skinet\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\omary\\OneDrive\\Escritorio\\LearningDEV\\SkiNet\\Skinet\\Skinet\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Skinet\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-15T23:18:15.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\omary\\OneDrive\\Escritorio\\LearningDEV\\SkiNet\\Skinet\\Skinet\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Skinet\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\omary\\OneDrive\\Escritorio\\LearningDEV\\SkiNet\\Skinet\\Skinet\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Skinet\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T20:55:17.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Pagination.cs",
+              "DocumentMoniker": "C:\\Users\\omary\\OneDrive\\Escritorio\\LearningDEV\\SkiNet\\Skinet\\Skinet\\RequestHelpers\\Pagination.cs",
+              "RelativeDocumentMoniker": "Skinet\\RequestHelpers\\Pagination.cs",
+              "ToolTip": "C:\\Users\\omary\\OneDrive\\Escritorio\\LearningDEV\\SkiNet\\Skinet\\Skinet\\RequestHelpers\\Pagination.cs",
+              "RelativeToolTip": "Skinet\\RequestHelpers\\Pagination.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T21:49:43.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProductSpecification.cs",
+              "DocumentMoniker": "C:\\Users\\omary\\OneDrive\\Escritorio\\LearningDEV\\SkiNet\\Skinet\\Core\\Specifications\\ProductSpecification.cs",
+              "RelativeDocumentMoniker": "Core\\Specifications\\ProductSpecification.cs",
+              "ToolTip": "C:\\Users\\omary\\OneDrive\\Escritorio\\LearningDEV\\SkiNet\\Skinet\\Core\\Specifications\\ProductSpecification.cs",
+              "RelativeToolTip": "Core\\Specifications\\ProductSpecification.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T21:25:26.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "BaseSpecification.cs",
               "DocumentMoniker": "C:\\Users\\omary\\OneDrive\\Escritorio\\LearningDEV\\SkiNet\\Skinet\\Core\\Specifications\\BaseSpecification.cs",
               "RelativeDocumentMoniker": "Core\\Specifications\\BaseSpecification.cs",
@@ -203,7 +263,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\omary\\OneDrive\\Escritorio\\LearningDEV\\SkiNet\\Skinet\\Core\\Entities\\Product.cs",
               "RelativeDocumentMoniker": "Core\\Entities\\Product.cs",
@@ -215,7 +275,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "ProductSpecParams.cs",
               "DocumentMoniker": "C:\\Users\\omary\\OneDrive\\Escritorio\\LearningDEV\\SkiNet\\Skinet\\Core\\Specifications\\ProductSpecParams.cs",
               "RelativeDocumentMoniker": "Core\\Specifications\\ProductSpecParams.cs",
@@ -227,7 +287,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 12,
               "Title": "TypeListSpecification.cs",
               "DocumentMoniker": "C:\\Users\\omary\\OneDrive\\Escritorio\\LearningDEV\\SkiNet\\Skinet\\Core\\Specifications\\TypeListSpecification.cs",
               "RelativeDocumentMoniker": "Core\\Specifications\\TypeListSpecification.cs",
@@ -239,7 +299,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 13,
               "Title": "ProductConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\omary\\OneDrive\\Escritorio\\LearningDEV\\SkiNet\\Skinet\\Infrastructure\\Config\\ProductConfiguration.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Config\\ProductConfiguration.cs",
@@ -251,7 +311,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 14,
               "Title": "IGenericRepository.cs",
               "DocumentMoniker": "C:\\Users\\omary\\OneDrive\\Escritorio\\LearningDEV\\SkiNet\\Skinet\\Core\\Interfaces\\IGenericRepository.cs",
               "RelativeDocumentMoniker": "Core\\Interfaces\\IGenericRepository.cs",
@@ -263,7 +323,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 15,
               "Title": "BaseEntity.cs",
               "DocumentMoniker": "C:\\Users\\omary\\OneDrive\\Escritorio\\LearningDEV\\SkiNet\\Skinet\\Core\\Entities\\BaseEntity.cs",
               "RelativeDocumentMoniker": "Core\\Entities\\BaseEntity.cs",
@@ -275,19 +335,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\omary\\OneDrive\\Escritorio\\LearningDEV\\SkiNet\\Skinet\\Skinet\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "Skinet\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\omary\\OneDrive\\Escritorio\\LearningDEV\\SkiNet\\Skinet\\Skinet\\Properties\\launchSettings.json",
-              "RelativeToolTip": "Skinet\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-15T23:18:15.248Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 16,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\omary\\OneDrive\\Escritorio\\LearningDEV\\SkiNet\\Skinet\\Skinet\\Program.cs",
               "RelativeDocumentMoniker": "Skinet\\Program.cs",
@@ -299,19 +347,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "C:\\Users\\omary\\OneDrive\\Escritorio\\LearningDEV\\SkiNet\\Skinet\\Skinet\\Controllers\\WeatherForecastController.cs",
-              "RelativeDocumentMoniker": "Skinet\\Controllers\\WeatherForecastController.cs",
-              "ToolTip": "C:\\Users\\omary\\OneDrive\\Escritorio\\LearningDEV\\SkiNet\\Skinet\\Skinet\\Controllers\\WeatherForecastController.cs",
-              "RelativeToolTip": "Skinet\\Controllers\\WeatherForecastController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-19T20:55:17.84Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
               "Title": "GenericRepository.cs",
               "DocumentMoniker": "C:\\Users\\omary\\OneDrive\\Escritorio\\LearningDEV\\SkiNet\\Skinet\\Infrastructure\\Data\\GenericRepository.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Data\\GenericRepository.cs",
@@ -323,7 +359,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 18,
               "Title": "ISpecification.cs",
               "DocumentMoniker": "C:\\Users\\omary\\OneDrive\\Escritorio\\LearningDEV\\SkiNet\\Skinet\\Core\\Interfaces\\ISpecification.cs",
               "RelativeDocumentMoniker": "Core\\Interfaces\\ISpecification.cs",
@@ -335,7 +371,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 19,
               "Title": "ProductRepository.cs",
               "DocumentMoniker": "C:\\Users\\omary\\OneDrive\\Escritorio\\LearningDEV\\SkiNet\\Skinet\\Infrastructure\\Data\\ProductRepository.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Data\\ProductRepository.cs",
@@ -347,7 +383,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 20,
               "Title": "StoreContextSeed.cs",
               "DocumentMoniker": "C:\\Users\\omary\\OneDrive\\Escritorio\\LearningDEV\\SkiNet\\Skinet\\Infrastructure\\Data\\StoreContextSeed.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Data\\StoreContextSeed.cs",
@@ -359,7 +395,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 21,
               "Title": "IProductRepository.cs",
               "DocumentMoniker": "C:\\Users\\omary\\OneDrive\\Escritorio\\LearningDEV\\SkiNet\\Skinet\\Core\\Interfaces\\IProductRepository.cs",
               "RelativeDocumentMoniker": "Core\\Interfaces\\IProductRepository.cs",
@@ -371,7 +407,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 22,
               "Title": "BrandListSpecification.cs",
               "DocumentMoniker": "C:\\Users\\omary\\OneDrive\\Escritorio\\LearningDEV\\SkiNet\\Skinet\\Core\\Specifications\\BrandListSpecification.cs",
               "RelativeDocumentMoniker": "Core\\Specifications\\BrandListSpecification.cs",
@@ -383,7 +419,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 24,
               "Title": "20250209002724_MyFirstMigration.cs",
               "DocumentMoniker": "C:\\Users\\omary\\OneDrive\\Escritorio\\LearningDEV\\SkiNet\\Skinet\\Infrastructure\\Migrations\\20250209002724_MyFirstMigration.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Migrations\\20250209002724_MyFirstMigration.cs",
@@ -395,7 +431,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 23,
               "Title": "StoreContext.cs",
               "DocumentMoniker": "C:\\Users\\omary\\OneDrive\\Escritorio\\LearningDEV\\SkiNet\\Skinet\\Infrastructure\\Data\\StoreContext.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Data\\StoreContext.cs",
@@ -407,7 +443,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 26,
               "Title": "Core.csproj",
               "DocumentMoniker": "C:\\Users\\omary\\OneDrive\\Escritorio\\LearningDEV\\SkiNet\\Skinet\\Core\\Core.csproj",
               "RelativeDocumentMoniker": "Core\\Core.csproj",
@@ -419,7 +455,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 25,
               "Title": "Infrastructure.csproj",
               "DocumentMoniker": "C:\\Users\\omary\\OneDrive\\Escritorio\\LearningDEV\\SkiNet\\Skinet\\Infrastructure\\Infrastructure.csproj",
               "RelativeDocumentMoniker": "Infrastructure\\Infrastructure.csproj",
@@ -431,7 +467,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 27,
               "Title": "Microsoft.Common.CurrentVersion.targets",
               "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
@@ -443,7 +479,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 28,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\Users\\omary\\OneDrive\\Escritorio\\LearningDEV\\SkiNet\\Skinet\\Skinet\\appsettings.Development.json",
               "RelativeDocumentMoniker": "Skinet\\appsettings.Development.json",
@@ -455,7 +491,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 29,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\omary\\OneDrive\\Escritorio\\LearningDEV\\SkiNet\\Skinet\\Skinet\\appsettings.json",
               "RelativeDocumentMoniker": "Skinet\\appsettings.json",

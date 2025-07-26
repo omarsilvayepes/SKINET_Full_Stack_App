@@ -11,10 +11,11 @@
 using System;
 using System.Reflection;
 
+[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("c25547a6-1b16-4950-b660-1c8488f54494")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("Skinet")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+54db724eda57292c2ffe736ccffee073188691ec")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a87d2bf440488673d781130d26fb7f00900e6973")]
 [assembly: System.Reflection.AssemblyProductAttribute("Skinet")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Skinet")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
