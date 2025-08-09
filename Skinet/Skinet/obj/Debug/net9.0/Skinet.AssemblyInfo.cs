@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Skinet")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a87d2bf440488673d781130d26fb7f00900e6973")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+53f60d3c3ab307b77f0c2fa3db1902543b7e27b5")]
 [assembly: System.Reflection.AssemblyProductAttribute("Skinet")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Skinet")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

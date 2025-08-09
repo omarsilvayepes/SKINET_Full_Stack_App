@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "rsd14RR1tUk=",
+  "dgSpecHash": "lrNgoOp5XzQ=",
   "success": true,
   "projectFilePath": "C:\\Users\\omary\\OneDrive\\Escritorio\\LearningDEV\\SkiNet\\Skinet\\Infrastructure\\Infrastructure.csproj",
   "expectedPackageFiles": [
@@ -49,6 +49,8 @@
     "C:\\Users\\omary\\.nuget\\packages\\microsoft.sqlserver.server\\1.0.0\\microsoft.sqlserver.server.1.0.0.nupkg.sha512",
     "C:\\Users\\omary\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
     "C:\\Users\\omary\\.nuget\\packages\\mono.texttemplating\\3.0.0\\mono.texttemplating.3.0.0.nupkg.sha512",
+    "C:\\Users\\omary\\.nuget\\packages\\pipelines.sockets.unofficial\\2.2.8\\pipelines.sockets.unofficial.2.2.8.nupkg.sha512",
+    "C:\\Users\\omary\\.nuget\\packages\\stackexchange.redis\\2.8.58\\stackexchange.redis.2.8.58.nupkg.sha512",
     "C:\\Users\\omary\\.nuget\\packages\\system.clientmodel\\1.0.0\\system.clientmodel.1.0.0.nupkg.sha512",
     "C:\\Users\\omary\\.nuget\\packages\\system.codedom\\6.0.0\\system.codedom.6.0.0.nupkg.sha512",
     "C:\\Users\\omary\\.nuget\\packages\\system.collections.immutable\\7.0.0\\system.collections.immutable.7.0.0.nupkg.sha512",

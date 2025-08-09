@@ -158,3 +158,5 @@ C:\Users\omary\OneDrive\Escritorio\LearningDEV\SkiNet\Skinet\Skinet\obj\Debug\ne
 C:\Users\omary\OneDrive\Escritorio\LearningDEV\SkiNet\Skinet\Skinet\obj\Debug\net9.0\Skinet.genruntimeconfig.cache
 C:\Users\omary\OneDrive\Escritorio\LearningDEV\SkiNet\Skinet\Skinet\obj\Debug\net9.0\ref\Skinet.dll
 C:\Users\omary\OneDrive\Escritorio\LearningDEV\SkiNet\Skinet\Skinet\obj\Debug\net9.0\Skinet.sourcelink.json
+C:\Users\omary\OneDrive\Escritorio\LearningDEV\SkiNet\Skinet\Skinet\bin\Debug\net9.0\Pipelines.Sockets.Unofficial.dll
+C:\Users\omary\OneDrive\Escritorio\LearningDEV\SkiNet\Skinet\Skinet\bin\Debug\net9.0\StackExchange.Redis.dll

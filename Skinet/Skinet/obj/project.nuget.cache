@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "GPZnHWq4Ces=",
+  "dgSpecHash": "TnYR1oubClU=",
   "success": true,
   "projectFilePath": "C:\\Users\\omary\\OneDrive\\Escritorio\\LearningDEV\\SkiNet\\Skinet\\Skinet\\Skinet.csproj",
   "expectedPackageFiles": [
@@ -51,6 +51,8 @@
     "C:\\Users\\omary\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\microsoft.visualstudio.azure.containers.tools.targets.1.21.0.nupkg.sha512",
     "C:\\Users\\omary\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
     "C:\\Users\\omary\\.nuget\\packages\\mono.texttemplating\\3.0.0\\mono.texttemplating.3.0.0.nupkg.sha512",
+    "C:\\Users\\omary\\.nuget\\packages\\pipelines.sockets.unofficial\\2.2.8\\pipelines.sockets.unofficial.2.2.8.nupkg.sha512",
+    "C:\\Users\\omary\\.nuget\\packages\\stackexchange.redis\\2.8.58\\stackexchange.redis.2.8.58.nupkg.sha512",
     "C:\\Users\\omary\\.nuget\\packages\\system.clientmodel\\1.0.0\\system.clientmodel.1.0.0.nupkg.sha512",
     "C:\\Users\\omary\\.nuget\\packages\\system.codedom\\6.0.0\\system.codedom.6.0.0.nupkg.sha512",
     "C:\\Users\\omary\\.nuget\\packages\\system.collections.immutable\\7.0.0\\system.collections.immutable.7.0.0.nupkg.sha512",
