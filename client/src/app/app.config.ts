@@ -1,15 +1,32 @@
-import { ApplicationConfig, provideZoneChangeDetection } from '@angular/core';
+import { ApplicationConfig, inject, provideAppInitializer, provideZoneChangeDetection } from '@angular/core';
 import { provideRouter } from '@angular/router';
 
 import { routes } from './app.routes';
 import { provideHttpClient, withInterceptors } from '@angular/common/http';
 import { errorInterceptor } from './core/interceptors/error.interceptor';
 import { loadingInterceptor } from './core/interceptors/loading.interceptor';
+import { InitService } from './core/services/init.service';
+import { last, lastValueFrom } from 'rxjs';
+import { MAT_DIALOG_DEFAULT_OPTIONS } from '@angular/material/dialog';
 
 export const appConfig: ApplicationConfig = {
   providers: [
      provideZoneChangeDetection({ eventCoalescing: true }),
      provideRouter(routes),
-     provideHttpClient(withInterceptors([errorInterceptor,loadingInterceptor]))
+     provideHttpClient(withInterceptors([errorInterceptor,loadingInterceptor])),
+     provideAppInitializer(async ()=>{
+      const initService=inject(InitService);
+        lastValueFrom(initService.init()).finally(()=>{
+        const splash=document.getElementById('initial-splash');
+        if(splash){
+          splash.remove();// remove logo when refresh page
+        }
+      })
+
+     }),
+     {
+      provide:MAT_DIALOG_DEFAULT_OPTIONS,
+      useValue:{autoFocus:'dialog',restoreFocus:true}
+     }
     ]
 };

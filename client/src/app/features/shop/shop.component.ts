@@ -1,5 +1,5 @@
 import { Component, Inject, inject, OnInit } from '@angular/core';
-import { product } from '../../shared/models/product';
+import { Product } from '../../shared/models/product';
 import { ShopService } from '../../core/services/shop.service';
 import { MatCard } from '@angular/material/card';
 import { MatDialog} from '@angular/material/dialog';
@@ -36,7 +36,7 @@ export class ShopComponent implements OnInit {
 
   private readonly shopService=inject(ShopService);
   private readonly dialogServie=inject(MatDialog);
-  products?: Pagination<product>;
+  products?: Pagination<Product>;
   sortOptions=[
     {name:'Alphabetical',value:'name'},
     {name:'Price: Low-High',value:'priceAsc'},
