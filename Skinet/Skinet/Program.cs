@@ -1,4 +1,4 @@
-using Core.Entities;
+﻿using Core.Entities;
 using Core.Interfaces;
 using Infrastructure.Data;
 using Infrastructure.Services;
@@ -23,17 +23,25 @@ builder.Services.AddScoped(typeof(IGenericRepository<>), typeof(GenericRepositor
 
 builder.Services.AddCors();
 
-builder.Services.AddSingleton<IConnectionMultiplexer>(config =>
+/* To avoid authentication cookie is being blocked by the browser due to cross-site cookie restrictions (SameSite=Lax)
+ * (usually when the request is between different domains or schemes — like http(Frontend) ↔ https(Backend),
+ * or localhost:5001 ↔ localhost:4200).*/
+builder.Services.ConfigureApplicationCookie(options =>
 {
-    var connString = builder.Configuration.GetConnectionString("Redis")
-        ?? throw new Exception("Cannot get redis connection string");
-
-    var cofiguration=ConfigurationOptions.Parse(connString,true);
-    return ConnectionMultiplexer.Connect(cofiguration);
-
+    options.Cookie.SameSite = SameSiteMode.None; // Allow cross-site cookies
 });
 
-builder.Services.AddSingleton<ICartService,CartService>();
+//builder.Services.AddSingleton<IConnectionMultiplexer>(config =>
+//{
+//    var connString = builder.Configuration.GetConnectionString("Redis")
+//        ?? throw new Exception("Cannot get redis connection string");
+
+//    var cofiguration=ConfigurationOptions.Parse(connString,true);
+//    return ConnectionMultiplexer.Connect(cofiguration);
+
+//});
+
+//builder.Services.AddSingleton<ICartService,CartService>();
 
 // Learn more about configuring OpenAPI at https://aka.ms/aspnet/openapi
 builder.Services.AddOpenApi();

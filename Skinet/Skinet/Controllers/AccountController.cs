@@ -63,7 +63,7 @@ namespace Skinet.Controllers
             });
         }
 
-        [HttpGet]
+        [HttpGet("auth-status")]
         public ActionResult GetAuthState()
         {
 
@@ -78,7 +78,7 @@ namespace Skinet.Controllers
         public async Task<ActionResult<Address>> CreateOrUpdateAddress(AddressDto addressDto)
         {
             var user=await signInManager.UserManager.GetUserByEmailWithAddress(User);
-            if (user == null)
+            if (user is null)
             {
                 user.Address=addressDto.ToEntity();
             }
